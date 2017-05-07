@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+}
+.white {
+  background-color: white;
+  margin-top: 50px;
+  padding: 70px 120px 20px 120px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+hr {
+  margin-top: 70px;
+}
+.elemento-abajo {
+  margin-bottom: 25px;
+}
+.justify {
+  text-align:justify;
+}
+.right {
+  text-align: right;
+}
